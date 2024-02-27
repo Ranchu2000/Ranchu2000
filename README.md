@@ -1,21 +1,23 @@
 ## Hi there, I'm Yu Fei <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### I'm a Student, Developer, and Learner!
+### I'm a Student, Developer, and Hacker!
 - 👨‍💻 I’m currently pursuing a Computer Science Degree in Singapore!
 - 🌱 I enjoy participating in Hackathons!
 - 🐠 Fun fact: Ranchu is a Japanese Goldfish species! 
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 ## 💻 My Past Projects:
-| 🔭 **Product** | 🚀 **Projects** | ⭐ **Remarks**
+| 🚀 **Projects** | 📝 **Description** | 🔗 **Links**|
 |-|-|-|
-|Flutter Mobile App|[![Break_Mobile_App](https://img.shields.io/static/v1?label=&message=Break_Mobile_App&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/GSC-2023/Flutter_App) | Google Solution Challenge 2023|
-|CPP Game|[![Jobpocalypse](https://img.shields.io/static/v1?label=&message=Jobpocalypse&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/HacknRoll23) | NUS Hack&Roll 2023|
-|Dashboard Web App|[![SingCast](https://img.shields.io/static/v1?label=&message=SingCast&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/TechFest23) | NTU Tech Fest 2023|
-|Automatic Pill Dispenser|[![Pill_Dispenser](https://img.shields.io/static/v1?label=&message=Pill_Dispenser&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/iNTUition_23) | NTU iNTUition 2023|
-|Clustering Algorithm|[![Customer_Segmentation_Analysis](https://img.shields.io/static/v1?label=&message=Customer_Segmentation_Analysis&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/evonneng05/Customer-Segmentation-Analysis) | NTU SC1015 Project|
-|Java Console App|[![MOBLIMA](https://img.shields.io/static/v1?label=&message=MOBLIMA&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/ayushmandixit2000/MOBLIMA) | NTU SC2002 Project|
-|React Native Mobile App|[![Fitbuds](https://img.shields.io/static/v1?label=&message=Fitbuds&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/aaronchualala/Fitbuds) | NTU SC2006 Project|
+|[![LangUR](https://img.shields.io/static/v1?label=&message=LangUR&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/langur-treehacks)|Language mastery chrome extension|https://devpost.com/software/polyaiglot|
+|[![ElderGPT](https://img.shields.io/static/v1?label=&message=ElderGPT&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/ElderGPT) | One-stop gateway to mobile applications||
+|[![Eurdite](https://img.shields.io/static/v1?label=&message=ElderGPT&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/calhacks-sydm) | Structured and self-learning platform|https://devpost.com/software/erudite-ykdhmg|
+|[![Break_Mobile_App](https://img.shields.io/static/v1?label=&message=Break_Mobile_App&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/GSC-2023/Flutter_App) | Cross-platform app to encourage mental wellness||
+|[![Jobpocalypse](https://img.shields.io/static/v1?label=&message=Jobpocalypse&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/HacknRoll23) | Top-down shooter game|https://devpost.com/software/jobpocalypse|
+|[![SingCast](https://img.shields.io/static/v1?label=&message=SingCast&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/TechFest23) | Visualisation dashboard|https://devpost.com/software/sydm|
+|[![Medispense](https://img.shields.io/static/v1?label=&message=Pill_Dispenser&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/iNTUition_23) | Arduino powered automated Pill Dispenser|https://devpost.com/software/medispense|
+|[![Customer_Segmentation_Analysis](https://img.shields.io/static/v1?label=&message=Customer_Segmentation_Analysis&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/evonneng05/Customer-Segmentation-Analysis) |Data science project involving clustering ||
+|[![Fitbuds](https://img.shields.io/static/v1?label=&message=Fitbuds&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/aaronchualala/Fitbuds) | Fitness app with form corrector||
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
