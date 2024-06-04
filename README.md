@@ -11,7 +11,7 @@
 |-|-|-|
 |[![LangUR](https://img.shields.io/static/v1?label=&message=LangUR&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/langur-treehacks)|Language mastery chrome extension|https://devpost.com/software/polyaiglot|
 |[![ElderGPT](https://img.shields.io/static/v1?label=&message=ElderGPT&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/ElderGPT) | One-stop gateway to mobile applications||
-|[![Eurdite](https://img.shields.io/static/v1?label=&message=ElderGPT&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/calhacks-sydm) | Structured and self-learning platform|https://devpost.com/software/erudite-ykdhmg|
+|[![Eurdite](https://img.shields.io/static/v1?label=&message=Eurdite&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/calhacks-sydm) | Structured and self-learning platform|https://devpost.com/software/erudite-ykdhmg|
 |[![Break_Mobile_App](https://img.shields.io/static/v1?label=&message=Break_Mobile_App&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/GSC-2023/Flutter_App) | Cross-platform app to encourage mental wellness||
 |[![Jobpocalypse](https://img.shields.io/static/v1?label=&message=Jobpocalypse&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/HacknRoll23) | Top-down shooter game|https://devpost.com/software/jobpocalypse|
 |[![SingCast](https://img.shields.io/static/v1?label=&message=SingCast&color=02ccfe&logo=github&logoColor=white&labelColor=3C78A9)](https://github.com/Ranchu2000/TechFest23) | Visualisation dashboard|https://devpost.com/software/sydm|
